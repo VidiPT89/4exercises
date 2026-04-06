@@ -1,0 +1,24 @@
+body {
+    /* fundo, tipo de letra e espaço */
+    font-family: Arial;
+    padding: 20px;
+    background-color: rgb(196, 196, 196);
+}
+
+.resultado {
+    /* box do resultado */
+    margin-top: 15px;
+    padding: 15px;
+    width: 200px;
+    background: #f3f3f3;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    /* titulo grande */
+    color: #776339;
+    font-size: 25px;
+}
