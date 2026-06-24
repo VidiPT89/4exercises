@@ -41,7 +41,6 @@ Then open `anagrama.html`, `contador.html`, `conversor.html`, or `palindromo.htm
 
 ## Context
 
-Built as part of my **Web Development (Front-End)** module at **CESAE Digital**.
 First JavaScript exercises. First time manipulating the DOM on purpose.
 
 ---
